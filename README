@@ -1,0 +1,15 @@
+Kartik Ayalasomayajula
+Program 2
+Due: 9/30/2016
+Compilers
+
+How to invoke the program:
+1. "make clean"
+2. "make"
+3. "make test"
+
+Assumptions made while coding:
+    I didn't really make that many "assumptions." The procedure was fairly straight-forward
+
+Problems I ran into:
+    I was quite unsure of exactly what specific tests needed to be made on P2.Java. I assumed this was primarily for our testing purposes, so I compensated by creating as many tests as I needed.
